@@ -126,5 +126,3 @@ Feel free to fork the repository and improve functionality, UI, or documentation
 This project is released for **academic and educational purposes only**.
 
 
-Just say the word 🙂
-
